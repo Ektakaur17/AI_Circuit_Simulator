@@ -1,0 +1,5 @@
+echo ollama>>requirements.txt
+echo matplotlib>>requirements.txt
+echo groq>>requirements.txt
+echo python-dotenv>>requirements.txt
+echo streamlit>>requirements.txt
