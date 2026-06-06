@@ -188,4 +188,5 @@ streamlit>=1.55.0
 
 ## Author
 
-Harsh Belwal — Internship Project
+Harsh Belwal 
+Ekta Kaur — Internship Project
